@@ -43,6 +43,7 @@ I'm currently pursuing B. Tech in Computer Science & Business Systems at [Sister
 ### 📺 Latest YouTube Videos [Born: 19th Nov, 2020]
 
 <!-- YOUTUBE:START -->
+- [Introduction | C Tutorial (Basic) | For Absolute Beginners | Bengali (বাংলা)](https://www.youtube.com/watch?v=1qqordyyySw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
