@@ -43,7 +43,7 @@ I'm currently pursuing B. Tech in Computer Science & Business Systems at [Sister
 ### 📺 Latest YouTube Videos [Born: 19th Nov, 2020]
 
 <!-- YOUTUBE:START -->
-- [How to install Dev-C++ | In Bangla / Bengali (বাংলা) | [also fix] source not compiled](https://www.youtube.com/watch?v=apeYi3e9Zs4)
+- [How to install Dev-C++ (windows) | In Bangla / Bengali (বাংলা) | [also fix] source not compiled](https://www.youtube.com/watch?v=apeYi3e9Zs4)
 - [Introduction | C Tutorial (Basic) | In Bangla / Bengali (বাংলা) | For Absolute Beginners](https://www.youtube.com/watch?v=1qqordyyySw)
 <!-- YOUTUBE:END -->
 
