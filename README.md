@@ -46,9 +46,9 @@ I'm currently pursuing B. Tech in Computer Science & Business Systems at [Sister
 ### 📺 Latest YouTube Videos [Born: 19th Nov, 2020]
 
 <!-- YOUTUBE:START -->
-- [Basic Program & Variable | C Tutorial (Basic) | In Bangla / Bengali (বাংলা) | For Absolute Beginners](https://www.youtube.com/watch?v=4CXC4t-cndM)
+- [Basic Program & Variable | in C Tutorial (Basic) | In Bangla/Bengali(বাংলা) | For Absolute Beginners](https://www.youtube.com/watch?v=4CXC4t-cndM)
 - [How to install CodeBlocks on Windows 10 (2020) | With Compiler | In Bangla / Bengali (বাংলা)](https://www.youtube.com/watch?v=ayzTH3XI8wM)
-- [How to install Dev-C++ (windows) | In Bangla / Bengali (বাংলা) | [also fix] source not compiled](https://www.youtube.com/watch?v=apeYi3e9Zs4)
+- [How to install Dev-C++ on Windows 10(2020) | In Bangla/Bengali(বাংলা) |[also fix]source not compiled](https://www.youtube.com/watch?v=apeYi3e9Zs4)
 - [Introduction to C | C Tutorial (Basic) | In Bangla / Bengali (বাংলা) | For Absolute Beginners](https://www.youtube.com/watch?v=1qqordyyySw)
 <!-- YOUTUBE:END -->
 
