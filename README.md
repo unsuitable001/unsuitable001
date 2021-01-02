@@ -7,7 +7,7 @@ I'm currently pursuing B. Tech in Computer Science & Business Systems at [Sister
 - 🔭 I just launched my first course: [C Basic Tutorial Series (Bengali)][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and solving real-world issues
-- 🥅 2020 Goals: Creating a YouTube channel and a blog, refining DSA skills
+- 🥅 2021 Goals: Refining DSA skills, keep writing blogs, open-source contributions and making my own podcast
 - ⚡ Fun fact: I love to read books and listening to music
 
 ### Connect with me:
