@@ -76,7 +76,7 @@ I'm currently pursuing B. Tech in Computer Science & Business Systems at [Sister
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unsuitable001&layout=compact&hide=html)
 
 
-[website]: https://unsuitable01.github.io
+[website]: https://unsuitable001.github.io
 [course]: https://www.youtube.com/playlist?list=PLuWZAtG_DaqNcQK-J1gXRjqo8JAyrPDur
 [twitter]: https://twitter.com/unsuitable001
 [youtube]: https://www.youtube.com/channel/UCuNZt3eGVpmbuS6UB4xggoA/
