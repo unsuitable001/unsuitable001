@@ -46,8 +46,8 @@ I'm currently pursuing B. Tech in Computer Science & Business Systems at [Sister
 ### 📺 Latest YouTube Videos [Born: 19th Nov, 2020]
 
 <!-- YOUTUBE:START -->
+- [What is Bit Rate & Sampling rate? 🤔 matters in audio quality? | Ep 1. Ch 1 | The Noob Coder's Show](https://www.youtube.com/watch?v=wzyni49JVec)
 - [How to compile a multi file program in Dev-C++ 😰 | for C & C++ programs | in Bengali](https://www.youtube.com/watch?v=ssjaYHhLzeA)
-- [Sampling rate and bitrate matter in audio quality 🤔 but how? | Ep 1. Ch 1 | The Noob Coder's Show](https://www.youtube.com/watch?v=xVqfWa4YlHw)
 - [How to show output in C | puts, printf in C | In Bangla/Bengali(বাংলা) | Tutorial (Beginners)](https://www.youtube.com/watch?v=cT1rfIWK80g)
 - [Basic Program & Variable | in C Tutorial (Basic) | In Bangla/Bengali(বাংলা) | For Absolute Beginners](https://www.youtube.com/watch?v=4CXC4t-cndM)
 - [How to install CodeBlocks on Windows 10 (2020) | With Compiler | In Bangla / Bengali (বাংলা)](https://www.youtube.com/watch?v=ayzTH3XI8wM)
