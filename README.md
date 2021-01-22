@@ -46,11 +46,11 @@ I'm currently pursuing B. Tech in Computer Science & Business Systems at [Sister
 ### 📺 Latest YouTube Videos [Born: 19th Nov, 2020]
 
 <!-- YOUTUBE:START -->
+- [A Take On Audio Files | Episode 1 [FULL] | The Noob Coder's Show](https://www.youtube.com/watch?v=fcPu-yoSVdU)
 - [How mp3/m4a decides which data to remove 🕵️‍♀️ for compression | Ep 1. Clip 2 | The NoobCoder's Show](https://www.youtube.com/watch?v=xl3tO45pS_E)
 - [What is Bit Rate & Sampling rate? 🤔 matters in audio quality? | Ep 1. Ch 1 | The Noob Coder's Show](https://www.youtube.com/watch?v=wzyni49JVec)
 - [How to compile a multi file program in Dev-C++ 😰 | for C & C++ programs | in Bengali](https://www.youtube.com/watch?v=ssjaYHhLzeA)
 - [How to show output in C | puts, printf in C | In Bangla/Bengali(বাংলা) | Tutorial (Beginners)](https://www.youtube.com/watch?v=cT1rfIWK80g)
-- [Basic Program & Variable | in C Tutorial (Basic) | In Bangla/Bengali(বাংলা) | For Absolute Beginners](https://www.youtube.com/watch?v=4CXC4t-cndM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
