@@ -1,6 +1,6 @@
 ### Hi there, I'm Soumyadip - aka [unsuitable001][website] 👋
 
-I'm currently pursuing B. Tech in Computer Science & Business Systems at [Sister Nivedita University, Kolkata](https://snuniv.ac.in/). I'm working on a peer-to-peer communication application, creating tech-ed videos in different languages and writing blogs.
+I'm currently pursuing B. Tech in Computer Science & Business Systems at [Sister Nivedita University, Kolkata](https://snuniv.ac.in/). I'm working on creating a HTTP package in Dart (and, Flutter) that laverages the power of Chrome's network stack as a part of [GSoC 2021](https://summerofcode.withgoogle.com/projects/#4757095741652992) with [Google's Dart Team](https://dart.dev/) ([@dart-lang](https://github.com/dart-lang)). It will bring heigher efficiency, better cache management, support for new protocols like HTTP3/QUIC and granular control to the developer. Oh, did I tell you that you can migrate to this new package from `dart:io` with 0 code changes in most cases?
 
 ## I'm a Friend, Student, Developer, and wanna-be teacher!!
 
