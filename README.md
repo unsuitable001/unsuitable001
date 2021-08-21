@@ -60,6 +60,7 @@ I'm currently pursuing B. Tech in Computer Science & Business Systems at [Sister
 ### 📕 Latest Blog Posts [Born: 19th Nov, 2020]
 
 <!-- BLOG-POST-LIST:START -->
+- [package:cronet, an HTTP Dart/Flutter package with dart FFI](https://unsuitable001.medium.com/package-cronet-an-http-dart-flutter-package-with-dart-ffi-84f9b69c8a24?source=rss-c3702618172f------2)
 - [Empowering Women — Message To The Masses Through Films](https://unsuitable001.medium.com/empowering-women-message-to-the-masses-through-films-99b8b13e0a07?source=rss-c3702618172f------2)
 - [[বাংলা] Introduction : C Basics in Bengali — বাংলায় C প্রোগ্রামিং](https://unsuitable001.medium.com/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-introduction-c-basics-in-bengali-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%AF%E0%A6%BC-c-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-b11a0026c5bf?source=rss-c3702618172f------2)
 - [C Programming — Appendix](https://unsuitable001.medium.com/c-programming-appendix-c1e2d9e9f689?source=rss-c3702618172f------2)
