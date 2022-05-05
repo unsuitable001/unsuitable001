@@ -2,7 +2,7 @@
 
 I'm currently pursuing B. Tech in Computer Science & Business Systems at [Sister Nivedita University, Kolkata](https://snuniv.ac.in/). I'm working on creating a HTTP package in Dart (and, Flutter) that laverages the power of Chrome's network stack as a part of [GSoC 2021](https://summerofcode.withgoogle.com/projects/#4757095741652992) with [Google's Dart Team](https://dart.dev/) ([@dart-lang](https://github.com/dart-lang)).
 
-## I'm a Friend, Student, Developer, and wanna-be teacher!!
+## I'm a Friend, Student and a Developer!!
 
 - 🔭 I'm currently building: [google/cronet.dart][gsoc-project]
 - 🌱 I’m currently learning everything 🤣
