@@ -7,7 +7,7 @@ Platform and data engineer at **Uniqode**, based in Bengaluru. I build streaming
 ## What I'm building
 
 - **[OpenETL](https://github.com/openetl-io/openetl)** — A self-hosted, open-source platform for moving tables, changes, and events between systems. A Go control plane coordinates a Rust data engine built around Apache Arrow, with pipelines defined in YAML. Currently in pre-alpha. [Project notes →](https://smdp.me/projects/openetl/)
-- **[Systems playground](https://smdp.me/playground/)** — Five small browser games about crash recovery, backpressure, packet ordering, byte order, and quorum writes. Try a failure, change a parameter, and see what happens.
+- **[Systems playground](https://smdp.me/playground/)** — Small browser games about crash recovery, backpressure, packet ordering, byte order, and quorum writes. Try a failure, change a parameter, and see what happens.
 
 ## Earlier open-source work
 
